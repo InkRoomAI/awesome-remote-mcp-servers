@@ -373,7 +373,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find the right free in-browser image tool for a job (background removal, upscaling, compression) in 40 languages.
 - [InkRoom](https://inkroom.ai/en/solutions/mcp-server) `https://mcp.inkroom.ai`
   [![InkRoom MCP connector](https://glama.ai/mcp/connectors/io.github.InkRoomAI/inkroom/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.InkRoomAI/inkroom)
-  🔓 - Public model/price and prompt discovery without login; image generation, editing, batches, cost previews, upscaling and original recovery require your own InkRoom account and MCP Token.
+  🔓 - Public model prices and prompt search; image generation and editing require your own InkRoom account and MCP Token.
 - [Logoforge](https://logoforge.terravidhal.me) `https://logoforge.terravidhal.me/mcp`
   [![Logoforge MCP connector](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
   🔓 - Search 900+ brand logos and get SVG files, typed React components or a logo cloud section.
